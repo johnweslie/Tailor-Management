@@ -1,0 +1,76 @@
+
+
+
+<div class="form-froup row">
+    <label class="col-sm-2 col-form-label">Customer Name</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Customer_name"
+        placeholder="Enter Customer Name" required>
+        
+    </div>
+    <label class="col-sm-2 col-form-label">Age</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Age"
+        placeholder="Enter Age" required>
+    </div>
+    <label class="col-sm-2 col-form-label">Gender</label>
+    <div class="col-sm-10">
+        <select class="form-control" [(ngModel)]="Gender" required>
+            <option>Male</option>
+            <option >Female</option>
+            
+        </select>
+     </div>
+    <label class="col-sm-2 col-form-label">Phone No</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Phone_no"
+        placeholder="Enter phone no" required>
+    </div>
+    <label class="col-sm-2 col-form-label">Material</label>
+    <div class="col-sm-10">
+        <select class="form-control" [(ngModel)]="Material" required>
+            <option>PANT</option>
+            <option >SHIRT</option>
+            <option>SHUDITHAR</option>
+            <option >BLOUSE</option>
+            <option>SAREE</option>
+        </select>
+     </div>
+    <label class="col-sm-2 col-form-label">Measurement</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Measurement"
+        placeholder="Enter Measurement" required>
+    </div>
+    <label class="col-sm-2 col-form-label">Booking Date</label>
+    <div class="col-sm-10">
+        <input type="date"  [(ngModel)]="Booking_date" required>
+    </div>
+    <label class="col-sm-2 col-form-label">Expected Delivery date</label>
+    <div class="col-sm-10">
+        <input type="date"  [(ngModel)]="Delivery_date" required>
+    </div>
+    <label class="col-sm-2 col-form-label">Address</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="Customer_address"
+        placeholder="Enter Address" required>
+    </div>
+    
+    <label class="col-sm-2 col-form-label">Status</label>
+    <div class="col-sm-10">
+        <select class="form-control" [(ngModel)]="Customer_status" *ngIf="Cus.CustomerId!=0" required>
+            <option>PROCESSING</option>
+            <option>DELIVERED</option>
+            
+        </select>
+    </div>
+  
+</div>
+
+
+<button (click)="addCustomer()" *ngIf="Cus.CustomerId==0" class="btn btn-primary">
+    Add
+</button>
+
+<button (click)="updateCustomer()" *ngIf="Cus.CustomerId!=0" class="btn btn-primary">
+    Update
+</button>

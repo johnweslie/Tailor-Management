@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TailorDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'TailorDB.dbo.Customerdetail' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Customerdetail">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Customer_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Age" Type="varchar" MaxLength="10" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" />
+    <Property Name="Phone_no" Type="varchar" MaxLength="10" />
+    <Property Name="Material" Type="varchar" MaxLength="50" />
+    <Property Name="Measurement" Type="nvarchar(max)" />
+    <Property Name="Booking_date" Type="datetime" />
+    <Property Name="Delivery_date" Type="datetime" />
+    <Property Name="Customer_address" Type="nvarchar(max)" />
+    <Property Name="Customer_status" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'TailorDB.dbo.Userdetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Userdetails">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="User_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Password" Type="nvarchar" MaxLength="10" />
+    <Property Name="Role" Type="varchar" MaxLength="50" />
+    <Property Name="Gender" Type="varchar" MaxLength="10" />
+    <Property Name="phone_no" Type="varchar" MaxLength="10" />
+    <Property Name="User_DOB" Type="datetime" />
+    <Property Name="User_Address" Type="nvarchar(max)" />
+    <Property Name="User_Staus" Type="varchar" MaxLength="10" />
+  </EntityType>
+  <Function Name="sp_users" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="User_name" Type="nvarchar" Mode="In" />
+    <Parameter Name="Password" Type="nvarchar" Mode="In" />
+    <Parameter Name="stmttype" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="Usp_GetAllCustomer" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PageNo" Type="int" Mode="In" />
+    <Parameter Name="PageSize" Type="int" Mode="In" />
+    <Parameter Name="SortOrder" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="Usp_getAllCustomerCount" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <Function Name="Usp_GetAllEmployee" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="PageNo" Type="int" Mode="In" />
+    <Parameter Name="PageSize" Type="int" Mode="In" />
+    <Parameter Name="SortOrder" Type="varchar" Mode="In" />
+  </Function>
+  <Function Name="Usp_getAllEmployeeCount" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="TailorDBModelStoreContainer">
+    <EntitySet Name="Customerdetail" EntityType="Self.Customerdetail" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Customerdetail].[CustomerId] AS [CustomerId], 
+[Customerdetail].[Customer_name] AS [Customer_name], 
+[Customerdetail].[Age] AS [Age], 
+[Customerdetail].[Gender] AS [Gender], 
+[Customerdetail].[Phone_no] AS [Phone_no], 
+[Customerdetail].[Material] AS [Material], 
+[Customerdetail].[Measurement] AS [Measurement], 
+[Customerdetail].[Booking_date] AS [Booking_date], 
+[Customerdetail].[Delivery_date] AS [Delivery_date], 
+[Customerdetail].[Customer_address] AS [Customer_address], 
+[Customerdetail].[Customer_status] AS [Customer_status]
+FROM [dbo].[Customerdetail] AS [Customerdetail]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Userdetails" EntityType="Self.Userdetails" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[Userdetails].[UserId] AS [UserId], 
+[Userdetails].[User_name] AS [User_name], 
+[Userdetails].[Password] AS [Password], 
+[Userdetails].[Role] AS [Role], 
+[Userdetails].[Gender] AS [Gender], 
+[Userdetails].[phone_no] AS [phone_no], 
+[Userdetails].[User_DOB] AS [User_DOB], 
+[Userdetails].[User_Address] AS [User_Address], 
+[Userdetails].[User_Staus] AS [User_Staus]
+FROM [dbo].[Userdetails] AS [Userdetails]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

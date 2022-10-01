@@ -1,0 +1,118 @@
+<!-- <div class="container" style="padding-top:60px;" id="loginbackgd">  
+  
+    
+    <form name="form" (ngSubmit)="login()" #f="ngForm">   
+      <div class="heading"><h2>TAILOR MANAGEMENT</h2></div>
+        <div class="inputGroup inputGroup1">
+          <img src="/assets/tailor2.gif" width="100%">
+        </div>
+        <div class="form-group row" [ngClass]="{'has-error': (loginForm.get('User_name').touched || loginForm.get('User_name').dirty) &&
+        !loginForm.get('User_name').valid }">
+              <label class="col-sm-3">
+                <strong>UserName * </strong>
+              </label>
+              <div class="col-sm-8">
+                <i style="position: relative;top: 24px;right: -300px;cursor: pointer;" class="fa fa-envelope"></i>
+        <input type="text" id="Username"  name="User_name" [(ngModel)]="model.User_name" class="Username" maxlength="256" required/>
+        
+        <span class="text-danger" *ngIf="(loginForm.get('User_name').touched || loginForm.get('User_name').dirty) && 
+            loginForm.get('User_name').errors">
+              <span *ngIf="loginForm.get('User_name').errors.required">Please enter your UserName
+                address.</span></span>
+          </div>
+        </div>
+      
+        <div class="form-group row" [ngClass]="{'has-error': (loginForm.get('Password').touched || loginForm.get('Password').dirty)
+        &&
+   !loginForm.get('Password').valid }">
+         <label class="col-sm-3">
+           <strong>Password * </strong>
+         </label>
+
+         <div class="col-sm-8">
+        <input type="password" id="password"  name="Password" [(ngModel)]="model.Password" class="password" required/>
+        <span class="form-control-password" style="float:right;"
+        (click)="togglePassword()">{{password ? 'Hide': 'Show'}}</span>
+      <span class="text-danger" *ngIf="(loginForm.get('Password').touched || loginForm.get('Password').dirty) && 
+loginForm.get('Password').errors">
+        <span *ngIf="loginForm.get('Password').errors.required">Please enter your Password.</span>
+        <span *ngIf="loginForm.get('Password').errors.minlength">The Password must be longer than 4
+          characters.</span>
+        <span *ngIf="loginForm.get('Password').errors.maxlength">The Password must be not longer than 30
+          characters.</span>
+      </span>
+      <div class="box-2">
+          <button id="login" type="submit" [disabled]="loginForm.valid" class="btn btn-success active">Log in</button>
+          <button  class="btn btn-success btn-lg btn-block px-12" routerLink="/RegEmployee" >Register</button>
+      </div>
+         </div>
+        </div>
+    </form>
+   
+    </div>   -->
+     
+    
+    <div class="container" style="padding-top:60px;" id="loginbackgd"> 
+      
+      <form class="form-horizontal" class="login" [formGroup]="loginForm" (ngSubmit)="login()">
+        <div class="form-group row" [ngClass]="{'has-error': (loginForm.get('User_name').touched || loginForm.get('User_name').dirty) &&
+    !loginForm.get('User_name').valid }">
+          <label class="col-sm-3">
+            <strong>UserName * </strong>
+          </label>
+          <div class="col-sm-8">
+            <i style="position: relative;top: 24px;right: -300px;cursor: pointer;" class="fa fa-envelope"></i>
+            <input type="text" formControlName="User_name" class="form-control form-control-sm"
+              placeholder="Your UserName" [(ngModel)]="model.User_name">
+              
+            <span class="text-danger" *ngIf="(loginForm.get('User_name').touched || loginForm.get('User_name').dirty) && 
+            loginForm.get('User_name').errors">
+              <span *ngIf="loginForm.get('User_name').errors.required">Please enter your UserName.</span></span>
+          </div>
+        </div>
+
+        <div class="form-group row" [ngClass]="{'has-error': (loginForm.get('Password').touched || loginForm.get('Password').dirty)
+         &&
+    !loginForm.get('Password').valid }">
+          <label class="col-sm-3">
+            <strong>Password * </strong>
+          </label>
+
+          <div class="col-sm-8">
+            <input type="{{password ? 'text' : 'Password' }}" formControlName="Password" [(ngModel)]="model.Password"
+              class="form-control form-control-sm" placeholder="Your Password" required >
+            <span class="form-control-password" style="float:right;"
+              (click)="togglePassword()">{{password ? 'Hide': 'Show'}}</span>
+            <span class="text-danger" *ngIf="(loginForm.get('Password').touched || loginForm.get('Password').dirty) && 
+loginForm.get('Password').errors">
+              <span *ngIf="loginForm.get('Password').errors.required">Please enter your Password.</span>
+              <span *ngIf="loginForm.get('Password').errors.minlength">The Password must be longer than 4
+                characters.</span>
+              <span *ngIf="loginForm.get('Password').errors.maxlength">The Password must be not longer than 30
+                characters.</span>
+            </span>
+          </div>
+        </div>
+        <div>
+          <p style="color:#E92626;font-size:20px;font-weight:normal" Class="success" align="left">
+            {{errorMessage}}
+          </p>
+        </div>
+        <div class="text-center">
+          <button type="submit" class="btn btn-success active" [disabled]="!loginForm.valid"
+            style="margin-right: 8px; cursor: pointer;">Login</button>
+          <a>Forgot Password ?</a>
+          <hr>
+          <button type="button" class="btn btn-success btn-lg btn-block px-12"
+            [routerLink]="['/RegEmployee']">Register</button>
+        </div>
+      </form></div>
+
+
+
+
+
+
+
+    
+    

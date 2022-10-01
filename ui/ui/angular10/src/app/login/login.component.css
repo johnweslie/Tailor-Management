@@ -1,0 +1,312 @@
+/* You can add global styles to this file, and also import other style files */
+/* colors */
+/* html {
+    width: 100%;
+    height: 100%;
+  }
+  
+  body {
+    background-color: #061417;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    
+  }
+ 
+  
+  form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    background-image: url("../../assets/background4.jpg");  
+    margin: 0;
+    padding: 2.25em;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    border: solid 1px #DDD;
+    border-radius: .5em;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  form .svgContainer {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 1em;
+    border-radius: 50%;
+    background: none;
+    border: solid 2.5px #3A5E77;
+    overflow: hidden;
+    pointer-events: none;
+    
+  }
+  form .svgContainer div {
+    position: relative;
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 100%;
+    
+  }
+  form .svgContainer .mySVG {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+  }
+  form .inputGroup {
+    margin: 0 0 2em;
+    padding: 0;
+    position: relative;
+  }
+  form .inputGroup:last-of-type {
+    margin-bottom: 0;
+  }
+  form label {
+    margin: 0 0 12px;
+    display: block;
+    font-size: 1.25em;
+    color: #217093;
+    font-weight: 700;
+    font-family: inherit;
+  }
+  form input[type='Username'], form input[type="text"], form input[type='password'] {
+    display: block;
+    margin: 0;
+    padding: 0 1em 0;
+    background-color: #f3fafd;
+    border: solid 2px #217093;
+    border-radius: 4px;
+    -webkit-appearance: none;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    width: 100%;
+    height: 65px;
+    font-size: 1.55em;
+    color: #353538;
+    font-weight: 600;
+    font-family: inherit;
+    -webkit-transition: border-color .25s ease-out, -webkit-box-shadow .2s linear;
+    transition: border-color .25s ease-out, -webkit-box-shadow .2s linear;
+    transition: box-shadow .2s linear, border-color .25s ease-out;
+    transition: box-shadow .2s linear, border-color .25s ease-out, -webkit-box-shadow .2s linear;
+  }
+  form input[type='Username']:focus, form input[type="text"]:focus, form input[type='password']:focus {
+    outline: none;
+    -webkit-box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    border: solid 2px #4eb8dd;
+  }
+  form input[type='Username'], form input[type="text"] {
+    padding: 14px 1em 0px;
+  } */
+  /* form button {
+    display: block;
+    margin: 0;
+    padding: .65em 1em 1em;
+    background-color: #4eb7dd02;
+    border: none;
+    border-radius: 2px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    -webkit-box-shadow: none;
+            box-shadow: none;
+    width: 100%;
+    height: 50px;
+    font-size: 1.55em;
+    color: #FFF;
+    font-weight: 600;
+    font-family: inherit;
+    -webkit-transition: background-color .2s ease-out;
+    transition: background-color .2s ease-out;
+  }
+  form button:hover, form button:active {
+    background-color:none;
+  } */
+  /* form .inputGroup1 .helper {
+    position: absolute;
+    z-index: 1;
+    font-family: inherit;
+  }
+  form .inputGroup1 .helper1 {
+    top: 0;
+    left: 0;
+    -webkit-transform: translate(1.4em, 2.6em) scale(1);
+            transform: translate(1.4em, 2.6em) scale(1);
+    -webkit-transform-origin: 0 0;
+            transform-origin: 0 0;
+    color: #217093;
+    font-size: 1.25em;
+    font-weight: 400;
+    opacity: .65;
+    pointer-events: none;
+    -webkit-transition: opacity .2s linear, -webkit-transform .2s ease-out;
+    transition: opacity .2s linear, -webkit-transform .2s ease-out;
+    transition: transform .2s ease-out, opacity .2s linear;
+    transition: transform .2s ease-out, opacity .2s linear, -webkit-transform .2s ease-out;
+  }
+  form .inputGroup1.focusWithText .helper {
+    
+    -webkit-transform: translate(1.4em, 2em) scale(0.65);
+            transform: translate(1.4em, 2em) scale(0.65);
+    opacity: 1;
+  }
+  form .heading
+  {
+    
+    text-align: center;
+    color: #932121;
+  } */
+  /* #loginbackgd
+  {
+    margin-top: 10%;
+    background-image: url("../../assets/background2.jpg");  
+    
+  } */
+  
+  
+  
+  /* @import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+  
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+  
+  div[class*=box] {
+    height: 33.33%;
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  .box-2 { background-color: #3c3c3c;
+    justify-content: center;
+    align-items: center; 
+    font-size: 26px;
+  }
+  
+  
+  .btn {
+    line-height: 50px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+    cursor: pointer;
+    font-size: 22px;
+  } */
+  
+  /*button two*/
+  
+  /* .btn-two {
+    color: rgb(251, 239, 21);
+    transition: all 0.5s;
+    position: relative; 
+  }
+  .btn-two span {
+    z-index: 2; 
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%; 
+  }
+  .btn-two::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.5s;
+    border: 1px solid rgba(255,255,255,0.2);
+    background-color: rgba(255,255,255,0.1);
+  }
+  .btn-two::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.5s;
+    border: 1px solid rgba(255,255,255,0.2);
+    background-color: rgba(255,255,255,0.1);
+  }
+  .btn-two:hover::before {
+    transform: rotate(-45deg);
+    background-color: rgba(255,255,255,0);
+  }
+  .btn-two:hover::after {
+    transform: rotate(45deg);
+    background-color: rgba(255,255,255,0);
+  } */
+  
+  /*button one*/
+  /* .btn-one {
+    color: rgb(251, 21, 79);
+    transition: all 0.5s;
+    position: relative; 
+  }
+  .btn-one span {
+    z-index: 2; 
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%; 
+  }
+  .btn-one::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.5s;
+    border: 1px solid rgba(255,255,255,0.2);
+    background-color: rgba(255,255,255,0.1);
+  }
+  .btn-one::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    transition: all 0.5s;
+    border: 1px solid rgba(255,255,255,0.2);
+    background-color: rgba(255,255,255,0.1);
+  }
+  .btn-one:hover::before {
+    transform: rotate(-45deg);
+    background-color: rgba(255,255,255,0);
+  }
+  .btn-one:hover::after {
+    transform: rotate(45deg);
+    background-color: rgba(255,255,255,0);
+  } */
+  .bg{
+    background-image: url("/src/assets/background4.jpg"); 
+  }

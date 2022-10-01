@@ -1,0 +1,454 @@
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\WebApplication1.dll.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\WebApplication1.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\WebApplication1.pdb
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csc.exe
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csc.exe.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csc.rsp
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csi.exe
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csi.exe.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\csi.rsp
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Console.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Http.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.ValueTuple.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\vbc.rsp
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Helpers.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Mvc.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Optimization.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Razor.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\WebGrease.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Helpers.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Mvc.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Optimization.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Razor.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Cors.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.dll
+E:\AngularWebAPITutorial\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\WebApplication1.dll.config
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\WebApplication1.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\WebApplication1.pdb
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csc.exe
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csc.exe.config
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csc.rsp
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csi.exe
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csi.exe.config
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\csi.rsp
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Console.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe.config
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\vbc.rsp
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Cors.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Helpers.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Mvc.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Optimization.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Razor.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\WebGrease.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Helpers.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Mvc.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Optimization.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.Razor.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+D:\dotnet\angualr10wepApi\Angular10WebAPITut\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\dotnet\api\WebAPI\WebApplication1\bin\WebApplication1.dll.config
+D:\dotnet\api\WebAPI\WebApplication1\bin\WebApplication1.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\WebApplication1.pdb
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\csc.exe
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\csc.exe.config
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\csc.rsp
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\csi.exe
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\csi.exe.config
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\csi.rsp
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Console.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe.config
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\vbc.rsp
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\dotnet\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\dotnet\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Cors.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Helpers.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Http.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Mvc.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Optimization.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Razor.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.WebPages.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\WebGrease.dll
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Helpers.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Http.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Mvc.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Optimization.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.Razor.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.WebPages.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\dotnet\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\dotnet\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotnet\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\dotnet\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\dotnet\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\dotnet\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+D:\dotnet\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\WebApplication1.dll.config
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\WebApplication1.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\WebApplication1.pdb
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\csc.exe
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\csc.exe.config
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\csc.rsp
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\csi.exe
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\csi.exe.config
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\csi.rsp
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Console.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe.config
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\vbc.rsp
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Cors.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Helpers.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Http.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Mvc.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Optimization.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Razor.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\WebGrease.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Helpers.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Http.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Mvc.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Optimization.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.Razor.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\FluentValidation.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\FluentValidation.ValidatorAttribute.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\FluentValidation.WebApi.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\System.ComponentModel.Annotations.dll
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\FluentValidation.xml
+D:\dotnet\tailor\api\api\WebAPI\WebApplication1\bin\FluentValidation.WebApi.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\WebApplication1.dll.config
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\WebApplication1.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\WebApplication1.pdb
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\csc.exe
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\csc.exe.config
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\csc.rsp
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\csi.exe
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\csi.exe.config
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\csi.rsp
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Console.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Globalization.Calendars.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Http.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Net.Sockets.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.ValueTuple.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\vbc.exe.config
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\vbc.rsp
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\FluentValidation.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\FluentValidation.ValidatorAttribute.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\FluentValidation.WebApi.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.ComponentModel.Annotations.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Cors.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Helpers.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Http.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Mvc.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Optimization.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Razor.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\WebGrease.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\FluentValidation.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\FluentValidation.WebApi.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Http.Cors.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\Newtonsoft.Json.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Net.Http.Formatting.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Helpers.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Http.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Http.WebHost.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Mvc.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Optimization.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.Razor.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\EntityFramework.dll
+D:\backup\tailor mgt\api\api\api\WebAPI\WebApplication1\bin\EntityFramework.xml
